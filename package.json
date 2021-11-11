@@ -1,6 +1,6 @@
 {
   "name": "easyinterrogation-backend",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "backend of easyInterrogation",
   "main": "index.js",
   "dependencies": {
