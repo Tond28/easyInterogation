@@ -21,11 +21,8 @@
   },
   "author": "",
   "license": "ISC",
-  "directories": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
-    "url": "a"
+    "url": "https://github.com/Tond28/easyInterogation.git"
   }
 }
