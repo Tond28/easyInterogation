@@ -1,0 +1,10 @@
+# Dependency directory
+/node_modules
+
+# Test directory
+/test
+
+# SECRET file
+src/db-operation/utils-db.js
+
+

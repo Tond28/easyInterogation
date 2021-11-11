@@ -1,0 +1,31 @@
+{
+  "name": "easyinterrogation-backend",
+  "version": "1.0.0",
+  "description": "backend of easyInterrogation",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2"
+  },
+  "devDependencies": {
+    "@soluzioni-futura/eslint-config-soluzioni-futura": "^2.0.0",
+    "eslint": "^8.1.0",
+    "@babel/eslint-parser": "^7.5.4",
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  }
+}
