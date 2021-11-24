@@ -6,5 +6,6 @@
 
 # SECRET file
 src/db-operation/utils-db.js
+/SECRET
 
 

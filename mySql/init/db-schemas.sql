@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `easyInterrogation-db`.`admins` (
     `email` VARCHAR(255) NOT NULL,
     `password` VARCHAR(1000) NOT NULL,
     `jwt` VARCHAR(1000),
-    `status` ENUM('active', 'disabled') NOT NULL,
+    `status` ENUM('active', 'disabled', 'superAdmin') NOT NULL,
     PRIMARY KEY (`id`),
     UNIQUE INDEX `id_UNIQUE` (`id` ASC ))
 ENGINE = InnoDB;
